@@ -1,0 +1,7 @@
+pandas
+numpy
+xrpl-py
+web3
+requests
+rich
+python-dotenv
